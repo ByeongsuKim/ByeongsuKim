@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="CodeBee — 교실에서 쓰이는 것을 만듭니다">
+  <rect width="1200" height="340" fill="#f6f5f4"/>
+
+  <!-- honeycomb motif, right side, very quiet -->
+  <g stroke="#e0d9cf" stroke-width="1.5" fill="none" opacity="0.9">
+    <path d="M1035 92 l24 14 v28 l-24 14 -24 -14 v-28 z"/>
+    <path d="M1083 120 l24 14 v28 l-24 14 -24 -14 v-28 z"/>
+    <path d="M1035 148 l24 14 v28 l-24 14 -24 -14 v-28 z"/>
+    <path d="M1083 176 l24 14 v28 l-24 14 -24 -14 v-28 z"/>
+    <path d="M1131 148 l24 14 v28 l-24 14 -24 -14 v-28 z"/>
+  </g>
+  <path d="M1083 120 l24 14 v28 l-24 14 -24 -14 v-28 z" fill="#dd5b00" opacity="0.14"/>
+
+  <!-- accent rule -->
+  <rect x="80" y="96" width="52" height="4" rx="2" fill="#dd5b00"/>
+
+  <text x="80" y="192" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+        font-size="86" font-weight="700" letter-spacing="-3.2" fill="#1a1917">CodeBee</text>
+
+  <text x="80" y="240" font-family="Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+        font-size="25" font-weight="400" letter-spacing="-0.4" fill="#615d59">교실에서 실제로 쓰이는 것을 만듭니다</text>
+
+  <line x1="80" y1="278" x2="1120" y2="278" stroke="#e2ddd6" stroke-width="1"/>
+
+  <text x="80" y="306" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="14" letter-spacing="1.6" fill="#8a837b">JEJU, KOREA</text>
+  <text x="1120" y="306" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="14" letter-spacing="1.6" fill="#8a837b">WEB · ANDROID · DESKTOP</text>
+</svg>
